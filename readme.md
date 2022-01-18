@@ -36,4 +36,4 @@ kube-ops-view   1         87m
 ```
 
 위와 같이 2개의 권한이 있을 경우 serviceAccount를 통해서 user를 지정해 줘야 한다.
-.
+
